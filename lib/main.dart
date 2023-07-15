@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 void main() async{
+ 
   runApp(const MyApp());
 }
 
@@ -18,6 +19,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => ProductProvider(),
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         home: HomeScreen(),
       ),
     );
