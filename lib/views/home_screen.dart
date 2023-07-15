@@ -70,7 +70,9 @@ class HomeScreen extends StatelessWidget {
   //           error,
   //           style: GoogleFonts.akshar(
   //               fontWeight: FontWeight.bold, fontSize: 30, color: Colors.red),
-  //         ),
+  //         ),dfmksljlsjfdsjdslfldsfdsljsldljfds
+  //sdfjkslksfjlsjflfjldskfl
+  //dfjljldsfjdlfdlfldskkfl
   //       ],
   //     ),
   //   );
